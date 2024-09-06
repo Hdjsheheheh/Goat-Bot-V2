@@ -1,7 +1,7 @@
 {
 	"facebookAccount": {
-		"email": "",
-		"password": "",
+		"email": "fakemail2088uyy@gmail.com",
+		"password": "Noth_pls_work",
 		"2FASecret": "",
 		"i_user": "",
 		"proxy": null,
@@ -40,10 +40,10 @@
 	"timeZone": "Asia/Ho_Chi_Minh",
 	"credentials": {
 		"gmailAccount": {
-			"email": "",
-			"clientId": "",
-			"clientSecret": "",
-			"refreshToken": "",
+			"email": "fakemail2088uyy@gmail.com",
+			"clientId": "356703651456-ahberufnsg9egpm3jn2p13ncpcse9b7d.apps.googleusercontent.com",
+			"clientSecret": "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",
+			"refreshToken": "1//04evy33fn7kZVCgYIARAAGAQSNwF-L9IroY84LmDfCvlC8k9YeOPlMuvo1Q2DX0Utb_kyIghBxEjiFxECeAVm9_swTyr_S_HMRXU",
 			"apiKey": ""
 		},
 		"gRecaptcha": {
